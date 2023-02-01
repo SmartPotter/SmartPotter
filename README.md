@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on my landing page.
+I'm currently working on my landing page.<br>
 I'm looking to collaborate on a face recognition app.<br>
 I'm currently looking for help with building my profile (resume, linkedin profile, github profile)<br>
 I'm currently learning C++ programming language<br>
